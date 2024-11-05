@@ -1,5 +1,5 @@
 <h1>Microsoft Azure: Azure Sentinel (SIEM & SOAR) Project</h1>
-<img src="https://imgur.com/gallery/azure-project-tapVW2p" height="80%" width="80%" alt="diagram"/>
+![image alt](https://github.com/FareedHussaini/Microsoft-Azure-SIEM-SOAR/blob/83bdb7fee8d705a8f8437b52ab53c5b11d9354d9/Azure%20Project%20-%20Imgur.png)
 <h2>Description</h2>
 In this project, I setup Azure Sentinel (SIEM & SOAR) and connect it to a live virtual machine acting as a honey pot. I observe live attacks (RDP Brute Force) from all around the world. We will use a custom PowerShell script to look up the attackers Geolocation information and plot it on the Azure Sentinel Map!
 <br />
